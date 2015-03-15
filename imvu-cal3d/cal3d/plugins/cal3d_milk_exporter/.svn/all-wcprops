@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/COPYING
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/StdAfx.cpp
+END
+cal3d_milk_exporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/cal3d_milk_exporter.cpp
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/resource.h
+END
+cal3d_milk_exporter.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/cal3d_milk_exporter.dsp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/StdAfx.h
+END
+MilkExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkExport.cpp
+END
+cal3d_milk_exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/cal3d_milk_exporter.h
+END
+MilkExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkExport.h
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/AUTHORS
+END
+MilkBoneNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkBoneNode.cpp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/ChangeLog
+END
+cal3d_milk_exporter.def
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/cal3d_milk_exporter.def
+END
+MilkMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMesh.cpp
+END
+MilkMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMaterial.cpp
+END
+MilkBoneNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkBoneNode.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/README
+END
+cal3d_milk_exporter.rc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/cal3d_milk_exporter.rc
+END
+MilkInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkInterface.cpp
+END
+MilkMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMesh.h
+END
+MilkMeshNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMeshNode.cpp
+END
+MilkMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMaterial.h
+END
+MilkInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkInterface.h
+END
+MilkMeshNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/MilkMeshNode.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_milk_exporter/INSTALL
+END

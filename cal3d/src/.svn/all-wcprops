@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/cal3d/!svn/ver/579/trunk/cal3d/src
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cal3d/!svn/ver/375/trunk/cal3d/src/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/565/trunk/cal3d/src/CMakeLists.txt
+END
+cal3d_converter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/506/trunk/cal3d/src/cal3d_converter.cpp
+END
+cal3d_converter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/531/trunk/cal3d/src/cal3d_converter.vcproj
+END
+cal3d_converter.1.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/375/trunk/cal3d/src/cal3d_converter.1.in
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cal3d/!svn/ver/284/trunk/cal3d/src/SConscript
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cal3d/!svn/ver/576/trunk/cal3d/examples
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cal3d/!svn/ver/289/trunk/cal3d/examples/SConscript
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/571/trunk/cal3d/examples/CMakeLists.txt
+END

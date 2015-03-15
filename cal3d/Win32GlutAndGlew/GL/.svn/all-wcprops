@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/glext.h
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/glxew.h
+END
+wglext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/wglext.h
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/glut.h
+END
+glxext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/glxext.h
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/GL/glew.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cal3d/!svn/ver/576/trunk/cal3d/examples/cally
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/415/trunk/cal3d/examples/cally/README
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/stamp-h.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/413/trunk/cal3d/examples/cally/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/acinclude.m4
+END
+cally.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/525/trunk/cal3d/examples/cally/cally.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/415/trunk/cal3d/examples/cally/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/415/trunk/cal3d/examples/cally/ChangeLog
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/286/trunk/cal3d/examples/cally/SConscript
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/415/trunk/cal3d/examples/cally/Makefile.am
+END

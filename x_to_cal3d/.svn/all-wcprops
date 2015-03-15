@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d
+END
+DirectX_to_Cal3D_Converter.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/DirectX_to_Cal3D_Converter.dpr
+END
+utility.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/utility.pas
+END
+DirectX_to_Cal3D_Converter.dof
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/DirectX_to_Cal3D_Converter.dof
+END
+DirectX_to_Cal3D_Converter.drc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/DirectX_to_Cal3D_Converter.drc
+END
+DirectX_to_Cal3D_Converter.res
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/DirectX_to_Cal3D_Converter.res
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/readme.txt
+END
+XFiles.pas
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/XFiles.pas
+END
+xFileReaderUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/xFileReaderUnit.pas
+END
+DirectX_to_Cal3D_Converter.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/DirectX_to_Cal3D_Converter.cfg
+END
+cmfData.pas
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/cmfData.pas
+END
+FlatSpin.pas
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cal3d/!svn/ver/439/trunk/x_to_cal3d/FlatSpin.pas
+END

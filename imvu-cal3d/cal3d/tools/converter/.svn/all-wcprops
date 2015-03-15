@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/configure.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/ChangeLog
+END
+fileformats.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/fileformats.txt
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/config.guess
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/README
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/config.sub
+END
+cal3d_converter.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/cal3d_converter.dsp
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/TODO
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/acinclude.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/autogen.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/mkinstalldirs
+END

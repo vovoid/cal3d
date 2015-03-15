@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/cal3d/!svn/ver/509/trunk/cal3d/tests
+END
+quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cal3d/!svn/ver/425/trunk/cal3d/tests/quaternion.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cal3d/!svn/ver/430/trunk/cal3d/tests/Makefile.am
+END
+run.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cal3d/!svn/ver/425/trunk/cal3d/tests/run.in
+END

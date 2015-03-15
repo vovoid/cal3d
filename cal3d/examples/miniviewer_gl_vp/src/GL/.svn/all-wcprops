@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/360/trunk/cal3d/examples/miniviewer_gl_vp/src/GL
+END
+wglew.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/360/trunk/cal3d/examples/miniviewer_gl_vp/src/GL/wglew.h
+END
+glxew.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/360/trunk/cal3d/examples/miniviewer_gl_vp/src/GL/glxew.h
+END
+glew.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/360/trunk/cal3d/examples/miniviewer_gl_vp/src/GL/glew.h
+END

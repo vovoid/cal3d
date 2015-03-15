@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/COPYING
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/missing
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/autogen.sh
+END
+cal3d_convert.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/cal3d_convert.py
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/stamp-h.in
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/mkinstalldirs
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/AUTHORS
+END
+pycal3d.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/pycal3d.py
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/configure.in
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/__init__.py
+END
+pycal3dtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/pycal3dtest.py
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/depcomp
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/SConscript
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/ChangeLog
+END
+SConscript.library
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/SConscript.library
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/config.guess
+END
+cal3d.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/cal3d.pc.in
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/README
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/config.sub
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/ltconfig
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/INSTALL
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/acinclude.m4
+END

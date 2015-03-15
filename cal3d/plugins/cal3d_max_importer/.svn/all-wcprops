@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/525/trunk/cal3d/plugins/cal3d_max_importer
+END
+cal3d_max_importer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/cal3d_max_importer.cpp
+END
+MaxAnimationImportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/313/trunk/cal3d/plugins/cal3d_max_importer/MaxAnimationImportDesc.cpp
+END
+MaxAnimationImport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/399/trunk/cal3d/plugins/cal3d_max_importer/MaxAnimationImport.cpp
+END
+cal3d_max_importer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/cal3d_max_importer.h
+END
+MaxAnimationImportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/313/trunk/cal3d/plugins/cal3d_max_importer/MaxAnimationImportDesc.h
+END
+MaxSkeletonImportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/313/trunk/cal3d/plugins/cal3d_max_importer/MaxSkeletonImportDesc.cpp
+END
+MaxAnimationImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/MaxAnimationImport.h
+END
+MaxSkeletonImport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/MaxSkeletonImport.cpp
+END
+bones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/bones.cpp
+END
+cal3d_importer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/525/trunk/cal3d/plugins/cal3d_max_importer/cal3d_importer.vcproj
+END
+cal3d_max_importer.def
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/294/trunk/cal3d/plugins/cal3d_max_importer/cal3d_max_importer.def
+END
+MaxSkeletonImportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/313/trunk/cal3d/plugins/cal3d_max_importer/MaxSkeletonImportDesc.h
+END
+MaxSkeletonImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/MaxSkeletonImport.h
+END
+bones.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/173/trunk/cal3d/plugins/cal3d_max_importer/bones.h
+END

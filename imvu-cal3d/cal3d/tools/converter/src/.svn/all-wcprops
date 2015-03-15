@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/src
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/src/Makefile.in
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/src/main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/tools/converter/src/Makefile.am
+END

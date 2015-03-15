@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cal3d/!svn/ver/509/trunk/cal3d/tests/coverage
+END
+model_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/model_test.cpp
+END
+coremesh_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/coremesh_test.cpp
+END
+loader_saver_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/loader_saver_test.cpp
+END
+physique_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/physique_test.cpp
+END
+springsystem_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/springsystem_test.cpp
+END
+except
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/except
+END
+coremodel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/coremodel_test.cpp
+END
+animation_action_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/animation_action_test.cpp
+END
+hardwaremodel_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/hardwaremodel_test.cpp
+END
+skeleton_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/skeleton_test.cpp
+END
+mixer_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/mixer_test.cpp
+END
+Unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/Unittest.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/508/trunk/cal3d/tests/coverage/Main.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/437/trunk/cal3d/tests/coverage/Makefile.am
+END
+buffersource_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/buffersource_test.cpp
+END
+test-coverage.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/434/trunk/cal3d/tests/coverage/test-coverage.in
+END
+animation_cycle_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/429/trunk/cal3d/tests/coverage/animation_cycle_test.cpp
+END

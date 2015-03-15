@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/cal3d/!svn/ver/525/trunk/cal3d/examples/miniviewer_d3d
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/405/trunk/cal3d/examples/miniviewer_d3d/README
+END
+cal3d_miniviewer_d3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/525/trunk/cal3d/examples/miniviewer_d3d/cal3d_miniviewer_d3d.vcproj
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/miniviewer_d3d/AUTHORS
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/miniviewer_d3d/COPYING
+END

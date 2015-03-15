@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src
+END
+Cal3DViewerFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DViewerFrame.cpp
+END
+Cal3DViewer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DViewer.cpp
+END
+Cal3DViewerEntry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DViewerEntry.cpp
+END
+tga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/tga.cpp
+END
+Cal3DViewerForm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DViewerForm.cpp
+END
+Cal3DLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DLoader.cpp
+END
+Cal3DRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/src/Cal3DRenderer.cpp
+END

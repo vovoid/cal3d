@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/496/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal
+END
+bcgui.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cal3d/!svn/ver/496/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/bcgui.py
+END
+bcconf.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/488/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/bcconf.py
+END
+bcobject.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cal3d/!svn/ver/496/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/bcobject.py
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cal3d/!svn/ver/426/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/logo.png
+END
+bcdata.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/496/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/bcdata.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cal3d/!svn/ver/496/trunk/cal3d/plugins/cal3d_blender_exporter/current/blendercal/__init__.py
+END

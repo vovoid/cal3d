@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter
+END
+MaxMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMesh.h
+END
+MaxMeshExportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMeshExportDesc.h
+END
+MaxMaterialExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterialExport.h
+END
+MaxNullView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxNullView.h
+END
+MaxSkeletonExportMaxscriptCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxSkeletonExportMaxscriptCall.cpp
+END
+MaxAnimationExportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxAnimationExportDesc.cpp
+END
+cal3d_max_exporter.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/cal3d_max_exporter.dsp
+END
+cal3d_max_exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/cal3d_max_exporter.h
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/StdAfx.cpp
+END
+MaxSkeletonExportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxSkeletonExportDesc.cpp
+END
+MaxNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxNode.cpp
+END
+MaxMeshExportMaxscriptCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMeshExportMaxscriptCall.cpp
+END
+MaxMorphAnimationExportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMorphAnimationExportDesc.cpp
+END
+MaxAnimationExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxAnimationExport.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/resource.h
+END
+MaxSkeletonExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxSkeletonExport.h
+END
+MaxMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMesh.cpp
+END
+MaxMorphAnimationExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMorphAnimationExport.h
+END
+MaxMeshExportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMeshExportDesc.cpp
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/AUTHORS
+END
+cal3d_max_exporter.rc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/cal3d_max_exporter.rc
+END
+MaxMaterialExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterialExport.cpp
+END
+MaxMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterial.h
+END
+MaxMeshExport.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMeshExport.h
+END
+MaxMaterialExportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterialExportDesc.h
+END
+MaxInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxInterface.h
+END
+MaxNullView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxNullView.cpp
+END
+wm3.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/wm3.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/README
+END
+MaxAnimationExportMaxscriptCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxAnimationExportMaxscriptCall.cpp
+END
+cal3d_max_exporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/cal3d_max_exporter.cpp
+END
+MaxMorphAnimationExportMaxscriptCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMorphAnimationExportMaxscriptCall.cpp
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/INSTALL
+END
+MaxAnimationExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxAnimationExport.cpp
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/COPYING
+END
+MaxAnimationExportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxAnimationExportDesc.h
+END
+MaxSkeletonExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxSkeletonExport.cpp
+END
+MaxMorphAnimationExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMorphAnimationExport.cpp
+END
+MaxMaterialExportMaxscriptCall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterialExportMaxscriptCall.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/StdAfx.h
+END
+cal3d_max_exporter.def
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/cal3d_max_exporter.def
+END
+MaxSkeletonExportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxSkeletonExportDesc.h
+END
+MaxNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxNode.h
+END
+MaxMorphAnimationExportDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMorphAnimationExportDesc.h
+END
+MaxMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterial.cpp
+END
+MaxMeshExport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMeshExport.cpp
+END
+MaxMaterialExportDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxMaterialExportDesc.cpp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/ChangeLog
+END
+MaxInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/cal3d_max_exporter/MaxInterface.cpp
+END

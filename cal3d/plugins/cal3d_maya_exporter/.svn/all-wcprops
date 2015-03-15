@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/536/trunk/cal3d/plugins/cal3d_maya_exporter
+END
+MayaMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/325/trunk/cal3d/plugins/cal3d_maya_exporter/MayaMesh.cpp
+END
+cal3d_maya_exporter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/536/trunk/cal3d/plugins/cal3d_maya_exporter/cal3d_maya_exporter.vcproj
+END
+MayaMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/279/trunk/cal3d/plugins/cal3d_maya_exporter/MayaMaterial.cpp
+END
+cal3d_maya_exporter.rc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/405/trunk/cal3d/plugins/cal3d_maya_exporter/cal3d_maya_exporter.rc
+END
+MayaInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/536/trunk/cal3d/plugins/cal3d_maya_exporter/MayaInterface.cpp
+END
+MayaMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/304/trunk/cal3d/plugins/cal3d_maya_exporter/MayaMesh.h
+END
+MayaMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/279/trunk/cal3d/plugins/cal3d_maya_exporter/MayaMaterial.h
+END
+cal3dExportCmd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/279/trunk/cal3d/plugins/cal3d_maya_exporter/cal3dExportCmd.cpp
+END
+MayaInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/536/trunk/cal3d/plugins/cal3d_maya_exporter/MayaInterface.h
+END
+cal3d_maya_exporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/294/trunk/cal3d/plugins/cal3d_maya_exporter/cal3d_maya_exporter.cpp
+END
+StdAfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/279/trunk/cal3d/plugins/cal3d_maya_exporter/StdAfx.cpp
+END
+cal3d_maya_exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/294/trunk/cal3d/plugins/cal3d_maya_exporter/cal3d_maya_exporter.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/279/trunk/cal3d/plugins/cal3d_maya_exporter/resource.h
+END
+MayaNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/294/trunk/cal3d/plugins/cal3d_maya_exporter/MayaNode.cpp
+END
+StdAfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/536/trunk/cal3d/plugins/cal3d_maya_exporter/StdAfx.h
+END
+MayaNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/294/trunk/cal3d/plugins/cal3d_maya_exporter/MayaNode.h
+END

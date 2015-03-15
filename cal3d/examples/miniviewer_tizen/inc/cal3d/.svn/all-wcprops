@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/mesh.h
+END
+corebone.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/corebone.h
+END
+coreskeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coreskeleton.h
+END
+refcounted.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/refcounted.h
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/model.h
+END
+coreanimatedmorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coreanimatedmorph.h
+END
+morphtargetmixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/morphtargetmixer.h
+END
+coremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coremesh.h
+END
+submesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/submesh.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/loader.h
+END
+springsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/springsystem.h
+END
+xmlformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/xmlformat.h
+END
+transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/transform.h
+END
+corekeyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/corekeyframe.h
+END
+streamsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/streamsource.h
+END
+coretrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coretrack.h
+END
+saver.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/saver.h
+END
+coremorphkeyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coremorphkeyframe.h
+END
+coremorphtrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coremorphtrack.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/platform.h
+END
+mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/mixer.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/quaternion.h
+END
+cal3d_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/cal3d_wrapper.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/resource.h
+END
+coreanimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coreanimation.h
+END
+buffersource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/buffersource.h
+END
+datasource.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/datasource.h
+END
+dualquaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/dualquaternion.h
+END
+calxmlbindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/calxmlbindings.h
+END
+animation_cycle.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/animation_cycle.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/global.h
+END
+animcallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/animcallback.h
+END
+refptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/refptr.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/vector.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/matrix.h
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/tinyxml.h
+END
+renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/renderer.h
+END
+corematerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/corematerial.h
+END
+physique.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/physique.h
+END
+coremodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coremodel.h
+END
+animation_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/animation_action.h
+END
+hardwaremodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/hardwaremodel.h
+END
+coresubmorphtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coresubmorphtarget.h
+END
+coresubmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/coresubmesh.h
+END
+animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/animation.h
+END
+tinybind.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/tinybind.h
+END
+bone.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/bone.h
+END
+physiquedualquaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/physiquedualquaternion.h
+END
+skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/skeleton.h
+END
+cal3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/cal3d.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/562/trunk/cal3d/examples/miniviewer_tizen/inc/cal3d/error.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test
+END
+testVector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/testVector.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/main.cpp
+END
+testTinyXml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/testTinyXml.cpp
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/SConscript
+END
+testLoader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/testLoader.cpp
+END
+TestPrologue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/test/TestPrologue.h
+END

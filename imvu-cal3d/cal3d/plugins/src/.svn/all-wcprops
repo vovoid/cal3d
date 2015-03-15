@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src
+END
+BaseInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseInterface.h
+END
+MaterialCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MaterialCandidate.h
+END
+SubmeshCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/SubmeshCandidate.cpp
+END
+SubmeshCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/SubmeshCandidate.h
+END
+Exporter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Exporter.cpp
+END
+Lodder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Lodder.cpp
+END
+VertexCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/VertexCandidate.cpp
+END
+Exporter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Exporter.h
+END
+Lodder.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Lodder.h
+END
+VertexCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/VertexCandidate.h
+END
+MaterialLibraryCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MaterialLibraryCandidate.cpp
+END
+BaseNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseNode.cpp
+END
+BoneCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BoneCandidate.cpp
+END
+SkeletonCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/SkeletonCandidate.cpp
+END
+MorphAnimationCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MorphAnimationCandidate.cpp
+END
+MaterialLibraryCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MaterialLibraryCandidate.h
+END
+BaseNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseNode.h
+END
+BoneCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BoneCandidate.h
+END
+SkeletonCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/SkeletonCandidate.h
+END
+BaseMesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseMesh.cpp
+END
+MorphAnimationCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MorphAnimationCandidate.h
+END
+Quadric.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Quadric.cpp
+END
+MeshCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MeshCandidate.cpp
+END
+BaseMaterial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseMaterial.cpp
+END
+MaterialCandidate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MaterialCandidate.cpp
+END
+BaseInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseInterface.cpp
+END
+BaseMesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseMesh.h
+END
+Quadric.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/Quadric.h
+END
+MeshCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/MeshCandidate.h
+END
+BaseMaterial.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/BaseMaterial.h
+END

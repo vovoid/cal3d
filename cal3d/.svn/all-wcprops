@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/cal3d/!svn/ver/579/trunk/cal3d
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cal3d/!svn/ver/427/trunk/cal3d/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cal3d/!svn/ver/431/trunk/cal3d/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cal3d/!svn/ver/417/trunk/cal3d/ChangeLog
+END
+cal3d.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cal3d/!svn/ver/356/trunk/cal3d/cal3d.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/cal3d/!svn/ver/405/trunk/cal3d/README
+END
+fileformats.txt.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/421/trunk/cal3d/fileformats.txt.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/cal3d/!svn/ver/26/trunk/cal3d/TODO
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/cal3d/!svn/ver/435/trunk/cal3d/acinclude.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/cal3d/!svn/ver/400/trunk/cal3d/INSTALL
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/cal3d/!svn/ver/285/trunk/cal3d/SConstruct
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/cal3d/!svn/ver/2/trunk/cal3d/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/cal3d/!svn/ver/433/trunk/cal3d/Makefile.am
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/cal3d/!svn/ver/576/trunk/cal3d/CMakeLists.txt
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cal3d/!svn/ver/26/trunk/cal3d/stamp-h.in
+END
+cal3d.sln
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cal3d/!svn/ver/525/trunk/cal3d/cal3d.sln
+END

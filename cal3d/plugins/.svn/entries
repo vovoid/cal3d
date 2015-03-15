@@ -1,0 +1,46 @@
+10
+
+dir
+579
+http://svn.gna.org/svn/cal3d/trunk/cal3d/plugins
+http://svn.gna.org/svn/cal3d
+
+
+
+2012-06-22T17:02:49.529950Z
+559
+cowboycoder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+00f86ae9-5713-0410-b9ea-e011ceef9384
+
+cal3d_max_exporter
+dir
+
+cal3d_maya_exporter
+dir
+
+src
+dir
+
+cal3d_blender_exporter
+dir
+
+cal3d_milk_exporter
+dir
+
+cal3d_max_importer
+dir
+

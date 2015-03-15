@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/cal3d/!svn/ver/576/trunk/cal3d/examples/cally/src
+END
+demo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/576/trunk/cal3d/examples/cally/src/demo.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/278/trunk/cal3d/examples/cally/src/main.cpp
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/278/trunk/cal3d/examples/cally/src/menu.cpp
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/src/global.h
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/302/trunk/cal3d/examples/cally/src/model.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/413/trunk/cal3d/examples/cally/src/Makefile.am
+END
+demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/382/trunk/cal3d/examples/cally/src/demo.h
+END
+menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/191/trunk/cal3d/examples/cally/src/menu.h
+END
+tick.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/550/trunk/cal3d/examples/cally/src/tick.cpp
+END
+tga.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/src/tga.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/576/trunk/cal3d/examples/cally/src/CMakeLists.txt
+END
+tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/cal3d/!svn/ver/382/trunk/cal3d/examples/cally/src/tick.h
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/550/trunk/cal3d/examples/cally/src/model.cpp
+END
+tga.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/cal3d/!svn/ver/143/trunk/cal3d/examples/cally/src/tga.h
+END

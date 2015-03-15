@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/cal3d/!svn/ver/568/trunk/cal3d/Win32GlutAndGlew
+END
+glut64.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/568/trunk/cal3d/Win32GlutAndGlew/glut64.dll
+END
+glew64s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/glew64s.lib
+END
+glut32.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/glut32.lib
+END
+glut64.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/glut64.lib
+END
+glew32s.lib
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/564/trunk/cal3d/Win32GlutAndGlew/glew32s.lib
+END

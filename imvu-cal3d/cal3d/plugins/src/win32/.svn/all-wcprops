@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32
+END
+AnimationTimePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/AnimationTimePage.cpp
+END
+MaterialExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialExportSheet.h
+END
+MaterialSelectionPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialSelectionPage.cpp
+END
+MorphAnimationTimePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MorphAnimationTimePage.h
+END
+BoneAssignmentPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/BoneAssignmentPage.cpp
+END
+SpringSystemPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SpringSystemPage.h
+END
+SelectionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SelectionDialog.h
+END
+MaterialMapsPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialMapsPage.cpp
+END
+AnimationExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/AnimationExportSheet.h
+END
+MorphAnimationExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MorphAnimationExportSheet.cpp
+END
+SkeletonHierarchyPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonHierarchyPage.cpp
+END
+MaterialMapDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialMapDialog.h
+END
+LevelOfDetailPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/LevelOfDetailPage.h
+END
+SkeletonExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonExportSheet.h
+END
+SkeletonFilePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonFilePage.h
+END
+MaterialExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialExportSheet.cpp
+END
+MeshExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MeshExportSheet.h
+END
+AnimationTimePage.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/AnimationTimePage.h
+END
+MorphAnimationTimePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MorphAnimationTimePage.cpp
+END
+SpringSystemPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SpringSystemPage.cpp
+END
+SelectionDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SelectionDialog.cpp
+END
+MaterialSelectionPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialSelectionPage.h
+END
+AnimationExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/AnimationExportSheet.cpp
+END
+MaterialMapDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialMapDialog.cpp
+END
+LevelOfDetailPage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/LevelOfDetailPage.cpp
+END
+BoneAssignmentPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/BoneAssignmentPage.h
+END
+SkeletonExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonExportSheet.cpp
+END
+MaterialMapsPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MaterialMapsPage.h
+END
+SkeletonFilePage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonFilePage.cpp
+END
+SkeletonHierarchyPage.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/SkeletonHierarchyPage.h
+END
+MorphAnimationExportSheet.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MorphAnimationExportSheet.h
+END
+MeshExportSheet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/plugins/src/win32/MeshExportSheet.cpp
+END

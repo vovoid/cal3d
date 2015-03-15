@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d
+END
+coreanimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreanimation.cpp
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/quaternion.h
+END
+mesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/mesh.cpp
+END
+corebone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corebone.cpp
+END
+animation_cycle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation_cycle.cpp
+END
+datasource.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/datasource.h
+END
+morphtargetmixer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/morphtargetmixer.cpp
+END
+coremorphanimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphanimation.h
+END
+global.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/global.h
+END
+model.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/model.h
+END
+springsystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/springsystem.cpp
+END
+renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/renderer.h
+END
+submesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/submesh.h
+END
+streamsource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/streamsource.cpp
+END
+corekeyframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corekeyframe.cpp
+END
+corematerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corematerial.h
+END
+physique.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/physique.h
+END
+xmlformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/xmlformat.h
+END
+hardwaremodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/hardwaremodel.cpp
+END
+coresubmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coresubmesh.cpp
+END
+animation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation.cpp
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinystr.h
+END
+platform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/platform.cpp
+END
+coresubmorphtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coresubmorphtarget.h
+END
+tinybind.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinybind.h
+END
+quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/quaternion.cpp
+END
+bone.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/bone.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/Makefile.am
+END
+skeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/skeleton.h
+END
+buffersource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/buffersource.cpp
+END
+coreanimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreanimation.h
+END
+calxmlbindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/calxmlbindings.cpp
+END
+mesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/mesh.h
+END
+corebone.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corebone.h
+END
+coreskeleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreskeleton.h
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/vector.cpp
+END
+animation_cycle.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation_cycle.h
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/matrix.cpp
+END
+physique.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/physique.cpp
+END
+corematerial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corematerial.cpp
+END
+xmlformat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/xmlformat.cpp
+END
+coremesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremesh.h
+END
+animation_action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation_action.cpp
+END
+coremodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremodel.h
+END
+coresubmorphtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coresubmorphtarget.cpp
+END
+saver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/saver.cpp
+END
+tinyxmlparser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinyxmlparser.cpp
+END
+corekeyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/corekeyframe.h
+END
+streamsource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/streamsource.h
+END
+coremorphkeyframe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphkeyframe.cpp
+END
+hardwaremodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/hardwaremodel.h
+END
+bone.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/bone.cpp
+END
+mixer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/mixer.cpp
+END
+cal3d_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/cal3d_wrapper.cpp
+END
+coremorphtrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphtrack.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/platform.h
+END
+cal3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/cal3d.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/resource.h
+END
+coreskeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreskeleton.cpp
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/error.h
+END
+buffersource.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/buffersource.h
+END
+calxmlbindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/calxmlbindings.h
+END
+tinyxml.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinyxml.cpp
+END
+coremesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremesh.cpp
+END
+coreanimatedmorph.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreanimatedmorph.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/SConscript
+END
+loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/loader.cpp
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/vector.h
+END
+cal3d.rc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/cal3d.rc
+END
+coremodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremodel.cpp
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/matrix.h
+END
+animation_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation_action.h
+END
+coretrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coretrack.h
+END
+coremorphtrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphtrack.cpp
+END
+saver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/saver.h
+END
+coremorphkeyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphkeyframe.h
+END
+vc.zip
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/vc.zip
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/error.cpp
+END
+mixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/mixer.h
+END
+cal3d_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/cal3d_wrapper.h
+END
+coremorphanimation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coremorphanimation.cpp
+END
+model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/model.cpp
+END
+global.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/global.cpp
+END
+coreanimatedmorph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coreanimatedmorph.cpp
+END
+renderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/renderer.cpp
+END
+morphtargetmixer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/morphtargetmixer.h
+END
+submesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/submesh.cpp
+END
+cal3d.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/cal3d.vcproj
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinyxml.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/config.h
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/loader.h
+END
+springsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/springsystem.h
+END
+tinystr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinystr.cpp
+END
+coretrack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coretrack.cpp
+END
+tinyxmlerror.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinyxmlerror.cpp
+END
+tinybind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinybind.cpp
+END
+tinytest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/tinytest.cpp
+END
+skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/skeleton.cpp
+END
+coresubmesh.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/coresubmesh.h
+END
+animation.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/cal3d/!svn/ver/428/trunk/imvu-cal3d/cal3d/src/cal3d/animation.h
+END
