@@ -162,7 +162,6 @@ public:
 
   static CalCoreMaterialPtr loadXmlCoreMaterial(const void *);
 
-private:
   static CalCoreBone *loadCoreBones(CalDataSource& dataSrc, int version);
   static CalCoreKeyframe *loadCoreKeyframe(CalDataSource& dataSrc, CalCoreBone * coreboneOrNull, 
                                              int version, CalCoreKeyframe * lastCoreKeyframe, 
@@ -177,6 +176,7 @@ private:
   static CalCoreMeshPtr loadXmlCoreMesh(cal3d::TiXmlDocument& doc);
   static CalCoreMaterialPtr loadXmlCoreMaterial(cal3d::TiXmlDocument& doc);
 
+private:
   static int loadingMode;
   static double translationTolerance;
   static double rotationToleranceDegrees;

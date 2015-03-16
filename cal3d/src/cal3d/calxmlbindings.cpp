@@ -275,6 +275,17 @@ ConvertFromString( char const * inStr, CalIndex (*vertexId)[2] )
   str >> *vertexId[0] >> *vertexId[1] ;
 }
 
+void
+ConvertFromString( char const * inStr, int *vertexId )
+{
+  static std::stringstream str;
+  str.str("");
+  str << inStr;
+  str >> *vertexId ;
+}
+
+
+
 TiXmlBinding<CalCoreSubmesh::Influence> const *
 GetTiXmlBinding( CalCoreSubmesh::Influence const &,IdentityBase  )
 {

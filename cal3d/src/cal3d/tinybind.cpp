@@ -91,7 +91,26 @@ char const *
 ConvertToString<long>(long const & d )
 {
   static char buffer[2048];
-  sprintf(buffer, "%l", d);
+  sprintf(buffer, "%ld", d);
+  return buffer;
+}
+
+template<>
+char const *
+ConvertToString< int[2] >(int const (&d) [2] )
+{
+  static char buffer[2048];
+  sprintf(buffer, "%d %d", d[0], d[1] );
+  return buffer;
+}
+
+template<>
+char const *
+ConvertToString< int[3] >(int const (&d) [3] )
+{
+
+  static char buffer[2048];
+  sprintf(buffer, "%d %d %d", d[0], d[1], d[2]);
   return buffer;
 }
 
@@ -161,6 +180,28 @@ ConvertFromString<float>( char const * strIn,  float * dataOut )
 {
   *dataOut = (float)atof(strIn);
 }
+
+
+template<>
+void
+ConvertFromString< int[2] >( char const * strIn,  int (*dataOut)[2] )
+{
+  static std::stringstream str;
+  str.str("");
+  str << strIn;
+  str >> *dataOut[0] >> *dataOut[1] ;
+}
+
+template<>
+void
+ConvertFromString< int[3] >( char const * strIn,  int (*dataOut)[3] )
+{
+  static std::stringstream str;
+  str.str("");
+  str << strIn;
+  str >> *dataOut[0] >> *dataOut[1] >> *dataOut[2];
+}
+
 //#endif
 
 
