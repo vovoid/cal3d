@@ -52,6 +52,8 @@ ConvertFromString<char const *>( char const * strIn, const char * * dataOut )
 #else
 
 
+char const * ConvertToString( unsigned long long )
+
 char const *
 ConvertToString( double const & d )
 {

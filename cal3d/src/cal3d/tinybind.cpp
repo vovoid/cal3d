@@ -114,16 +114,14 @@ ConvertToString< int[3] >(int const (&d) [3] )
   return buffer;
 }
 
-#ifdef WIN64
 template<>
 char const *
-ConvertToString<unsigned __int64>( unsigned __int64 const & d )
+ConvertToString<unsigned long long>( unsigned long long const & d )
 {
   static char buffer[2048];
-  sprintf(buffer, "%I64u", d);
+  sprintf(buffer, "%llu" , d);
   return buffer;
 }
-#endif
 
 template<>
 char const *
