@@ -440,6 +440,7 @@ CalCoreAnimationPtr CalLoader::loadCoreAnimation(void* inputBuffer, CalCoreSkele
 
 CalCoreAnimatedMorph * CalLoader::loadCoreAnimatedMorphFromBuffer(void* inputBuffer, unsigned int len)
 {
+  (void)len;
    //Create a new buffer data source and pass it on
    CalBufferSource bufferSrc(inputBuffer);
    CalCoreAnimatedMorph * result = loadCoreAnimatedMorph(bufferSrc);
@@ -1404,6 +1405,8 @@ CalLoader::readCompressedKeyframe(
                                   bool translationRequired, bool highRangeRequired, bool translationIsDynamic,
                                   bool useAnimationCompression)
 {
+  (void)bytes;
+  (void)useAnimationCompression;
    unsigned char * bufStart = buf;
 
    // Read in the translation or get it from the skeleton or zero it out as a last resort.
@@ -1496,6 +1499,8 @@ CalLoader::writeCompressedKeyframe( unsigned char * buf, unsigned int bufLen, co
                                    int version, 
                                    bool translationWritten, bool highRangeRequired )
 {
+  (void)rotation;
+  (void)caltime;
    assert( CalLoader::usesAnimationCompression( version ) );
    assert( bufLen >= CalLoader::keyframePosBytes );
 

@@ -187,6 +187,8 @@ template<class T, class MT>
   MT T::*memberPtr_;
   virtual MT const & getMemberValue( T const * thisPtr ) { return thisPtr->*memberPtr_; }
   virtual void setMemberValue( T * thisPtr, MT const & mv ) { 
+    (void)thisPtr;
+    (void)mv;
     // by casting away const here, we can support member pointers to arrays
     //assert(false);
     //thisPtr->*memberPtr_ = const_cast<MT &>(mv); 
@@ -551,6 +553,7 @@ class MemberTiXmlBinding : public TiXmlBinding<T>
 
   virtual bool fromXml(cal3d::TiXmlElement const & elem, T * data, SerializeParams const & params ) const 
   {
+    (void)params;
    cal3d::TiXmlElement const * child = elem.FirstChildElement();
     for( size_t i = 0; i < members_.size(); i++ ) {
       IMemberHolder<T> * mph = members_[i];
