@@ -1309,7 +1309,7 @@ CalCoreKeyframe* CalLoader::loadCoreKeyframe(
   if(!dataSrc.ok())
   {
     dataSrc.setError();
-    return false;
+    return 0;
   }
 
   // allocate a new core keyframe instance
@@ -1934,11 +1934,11 @@ CalCoreSubmesh *CalLoader::loadCoreSubmesh(CalDataSource& dataSrc, int version)
       CalCoreSubMorphTarget * morphTarget = new CalCoreSubMorphTarget();
       if( !morphTarget ) {
          dataSrc.setError();
-         return false;
+         return 0;
       }
       if( !morphTarget->reserve(vertexCount) ) {
          dataSrc.setError();
-         return false;
+         return 0;
       }
 
       std::string morphName;
@@ -1980,7 +1980,7 @@ CalCoreSubmesh *CalLoader::loadCoreSubmesh(CalDataSource& dataSrc, int version)
             }
             if( ! dataSrc.ok() ) {
                dataSrc.setError();
-               return false;
+               return 0;
             }
 
             morphTarget->setBlendVertex(blendVertI, Vertex);
