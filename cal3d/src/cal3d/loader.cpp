@@ -1482,12 +1482,13 @@ CalLoader::readCompressedKeyframe(
 
    // Read in the quat and time.
    float quat[ 4 ];
-   unsigned int steps;
+   //unsigned int steps;
  //  unsigned int bytesRead = ReadQuatAndExtra( buf, quat, & steps, keyframeBitsPerOriComponent, keyframeBitsPerTime );
    buf += 6;
 //   assert( bytesRead == 6 );
    quatResult->set( quat[ 0 ], quat[ 1 ], quat[ 2 ], quat[ 3 ] );
-   * timeResult = steps / 30.0f;
+   //* timeResult = steps / 30.0f;
+   * timeResult = 0;
    return buf - bufStart;
 }
 
