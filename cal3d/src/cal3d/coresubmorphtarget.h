@@ -26,13 +26,21 @@ public:
     CalVector position;
     CalVector normal;
     std::vector<CalCoreSubmesh::TextureCoordinate> textureCoords;
-    bool create() { return true; }
-    bool destroy() { return true; }
+    bool create() {
+      return true;
+    }
+    bool destroy() {
+      return true;
+    }
   };
   
 public:
   CalCoreSubMorphTarget();
-  virtual ~CalCoreSubMorphTarget() { }
+  virtual ~CalCoreSubMorphTarget() {
+    for (size_t i = 0; i < m_vectorBlendVertex.size(); i++)
+      if (m_vectorBlendVertex[i])
+        delete m_vectorBlendVertex[i];
+  }
   
   virtual void setCoreSubmesh( CalCoreSubmesh *inCoreSubmesh );
   const CalCoreSubmesh *getCoreSubmesh() const;
