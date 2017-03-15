@@ -60,7 +60,6 @@ CalSpringSystem::CalSpringSystem(CalModel *pModel)
 void CalSpringSystem::calculateForces(CalSubmesh *pSubmesh, float deltaTime)
 {
   (void)deltaTime;
-#pragma unused( deltaTime )
   // get the vertex vector of the submesh
   std::vector<CalVector>& vectorVertex = pSubmesh->getVectorVertex();
 
