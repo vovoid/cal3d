@@ -94,6 +94,7 @@ int CalPhysique::calculateVertices(CalSubmesh *pSubmesh, float *pVertexBuffer, i
      morphTargetCount = morphTargetCountMax;
   }
   static float morphTargetScaleArray[ morphTargetCountMax ];
+
   for(int i = 0; i < morphTargetCount; i++ )
   {
      morphTargetScaleArray[ i ] = pSubmesh->getMorphTargetWeight( i );
@@ -105,22 +106,22 @@ int CalPhysique::calculateVertices(CalSubmesh *pSubmesh, float *pVertexBuffer, i
 	pSubmesh->hasInternalData();
 
 
-
   // calculate all submesh vertices
   int vertexId;
   for(vertexId = 0; vertexId < vertexCount; ++vertexId)
   {
     // get the vertex
     CalCoreSubmesh::Vertex& vertex = vectorVertex[vertexId];
-
     // blend the morph targets
     CalVector position=vertex.position;
-
     {
 
       int morphTargetId;
       for(morphTargetId=0; morphTargetId < morphTargetCount;++morphTargetId)
       {
+        if (morphTargetScaleArray[ morphTargetId ] < 0.00001f)
+          continue;
+
          CalCoreSubMorphTarget::BlendVertex const * blendVertex =
             vectorSubMorphTarget[morphTargetId]->getBlendVertex(vertexId);
          float morphScale = morphTargetScaleArray[ morphTargetId ];
