@@ -37,7 +37,7 @@ namespace cal3d
     }
 
     /**
-     * Protected so users of refcounted classes don't use std::auto_ptr
+     * Protected so users of refcounted classes don't use std::unique_ptr
      * or the delete operator.
      *
      * Interfaces that derive from RefCounted should define an inline,

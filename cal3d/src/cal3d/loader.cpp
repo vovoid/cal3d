@@ -1114,7 +1114,7 @@ CalCoreBone *CalLoader::loadCoreBones(CalDataSource& dataSrc, int version)
   }
 
   // allocate a new core bone instance
-  std::auto_ptr<CalCoreBone> pCoreBone( new(std::nothrow) CalCoreBone(strName) );
+  std::unique_ptr<CalCoreBone> pCoreBone( new(std::nothrow) CalCoreBone(strName) );
   if(pCoreBone.get() == 0)
   {
     CalError::setLastError(CalError::MEMORY_ALLOCATION_FAILED, __FILE__, __LINE__);
@@ -1726,7 +1726,7 @@ CalCoreSubmesh *CalLoader::loadCoreSubmesh(CalDataSource& dataSrc, int version)
 	}
 
 	// allocate a new core submesh instance
-	std::auto_ptr<CalCoreSubmesh> pCoreSubmesh( new(std::nothrow) CalCoreSubmesh() );
+  std::unique_ptr<CalCoreSubmesh> pCoreSubmesh( new(std::nothrow) CalCoreSubmesh() );
 	if(pCoreSubmesh.get() == 0)
 	{
 		CalError::setLastError(CalError::MEMORY_ALLOCATION_FAILED, __FILE__, __LINE__);
